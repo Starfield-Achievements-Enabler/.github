@@ -6,7 +6,7 @@ Starfield Achievement Enabler is a standalone tool designed to restore and enabl
 
 ## 🔗 Get the Latest Release
 
-- [💾 Releases Page]() = `*Latest Release as of now*`
+- [💾 Releases Page](https://github.com/Starfield-Achievements-Enabler/.github/releases) = `*Latest Release as of now*`
 
 ---
 
